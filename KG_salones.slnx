@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KG_aplicaciones_estudiantes/KG_aplicaciones_estudiantes.csproj" />
+  <Project Path="KG_front_salones/KG_front_salones.csproj" />
+  <Project Path="KG_presentacion_salones/KG_presentacion_salones.csproj" />
+  <Project Path="KG_servicios_salones/KG_servicios_salones.csproj" />
+</Solution>

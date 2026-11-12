@@ -1,0 +1,6 @@
+@KG_servicios_salones_HostAddress = http://localhost:5230
+
+GET {{KG_servicios_salones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
